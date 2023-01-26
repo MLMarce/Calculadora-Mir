@@ -40,7 +40,7 @@ h1 {
     cursor: pointer;
 }
 .active {
-    filter: drop-shadow(0 0 #f22f) drop-shadow(0 0 10px #f22a) drop-shadow(0 0 #f225);
+    filter: drop-shadow(0 0 #df1f) drop-shadow(0 0 10px #df1a) drop-shadow(0 0 #df15);
 }
 
 .principal {
@@ -103,6 +103,9 @@ input:focus {
 
 .epico{
     background-color: #f44;
+}
+.legendario {
+    background-color: #df1;
 }
 
 form.recursos {
